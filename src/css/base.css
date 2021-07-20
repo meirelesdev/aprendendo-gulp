@@ -1,0 +1,13 @@
+body {
+    background-color: #555;
+    color: #fff;
+    font-size: 15px;
+}
+.area , .result{
+    width: 500px;
+    border: 1px solid #fff;
+    padding: 20px;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+}

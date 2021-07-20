@@ -1,0 +1,24 @@
+@import "base.css";
+
+#n1, #n2 {
+    padding: 10px;
+    font-size: 25px;
+    width: 130px;
+    margin: 0 auto;
+}
+#calc {
+    background-color: rebeccapurple;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    border-radius: 5px;
+}
+.result {
+    border: 1px dashed #fff;
+    /* display: none; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 130px;
+    padding: 20px;
+    font-size: 16px;
+}
